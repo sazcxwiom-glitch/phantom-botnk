@@ -1,0 +1,15 @@
+{
+  "name": "phantom-bot",
+  "version": "1.0.0",
+  "description": "Phantom WhatsApp Group Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.13",
+    "axios": "^1.7.9",
+    "pino": "^9.6.0",
+    "yt-search": "^2.12.1"
+  }
+}
